@@ -13,7 +13,7 @@ import static com.codeborne.selenide.Selectors.withText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class AppCardDelivery {
+public class appcarddelivery {
     @BeforeEach
     void setUp() {
         open("http://localhost:9999");
